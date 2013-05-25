@@ -1,0 +1,11 @@
+all{
+	a:{
+		id:1,
+		name: "one"
+	},
+	
+	b:{ 
+		id:2,
+		name: "two"
+	}
+}
