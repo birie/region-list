@@ -3,4 +3,4 @@ region-list
 
 irie. new. spaceship.
 
-REMOTE.
+LOCAL.
